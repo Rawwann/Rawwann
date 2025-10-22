@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rawan</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 Currently Learning: Mastering the core trio – HTML, CSS, and JavaScript. Eagerly exploring modern web development practices and tools to build responsive and dynamic websites.
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 Open to Collaboration: Looking for opportunities to collaborate on beginner-friendly frontend projects. Let's learn and build something cool together!
 
-- 💬 Ask me about **anything**
+- 💬 Let's Chat: Feel free to ask me about CSS layout challenges, JavaScript fundamentals, my learning resources, or anything related to starting in frontend!
 
-- 📫 How to reach me **hanyrawan49@gmail.com**
+- 📫 Reach Me: Drop me an email at hanyrawan49@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
